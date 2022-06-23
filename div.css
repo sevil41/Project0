@@ -1,0 +1,41 @@
+
+.container {
+    text-align: center;
+    margin: 20px;
+}
+.google-img {
+    align-items: center;
+    height: 92px;
+    width: 272px;
+}
+.alserch {
+    margin: 5px;
+}
+.blw-button {
+    border:0px solid gainsboro;
+    margin: 10px;
+}
+.btn {
+    height: 40px;
+    margin: 2px;
+    border: none;
+    border-radius: 5px;
+    color: #4c4c4c;
+    background: #d8d5d5;
+}
+.btn:hover {
+    background-color: rgb(184, 184, 184);
+    border: 3px #3e3e3e;
+    border-radius: 5px;
+}
+.search-bar { 
+    height: 40px;
+    width: 550px;
+    margin: 10px;
+    border: 2px solid lightgray;
+    border-radius: 20px;
+}
+.search-bar:hover {
+    border: 2px solid black;
+    border-radius: 20px;
+}
